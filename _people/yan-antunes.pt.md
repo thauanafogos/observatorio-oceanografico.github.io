@@ -33,5 +33,5 @@ Atualmente curso Engenharia Agrícola e Ambiental na UFF e estou iniciando minha
 
 Recentemente entrei em um projeto de iniciação científica, onde estou em processo de capacitação e aprendizado em técnicas de programação, processamento de dados e aplicações voltadas às ciências ambientais. Tenho bastante interesse em aprender coisas novas, principalmente quando consigo unir teoria e prática. Curto bastante ler e colocar a mão na massa para entender como as coisas funcionam de verdade.
 
-🌎 **Objetivo** 
+🌎 **Objetivo**  
 Construir experiência acadêmica e profissional na integração entre engenharia, tecnologia e meio ambiente, participando de projetos que contribuam para análise e compreensão de problemas.
