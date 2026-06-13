@@ -7,14 +7,14 @@ alt_lang: /pessoas/bernardo-chede/
 
 role: "Petroleum Engineering · Postdoctoral Researcher"
 affiliation: "Graduation program in Ocean and Earth Dynamics (PPG-DOT)"
-affiliation_url: "[https://ppgdot-uff.com.br/](https://ppgdot-uff.com.br/)"
+affiliation_url: "https://ppgdot-uff.com.br/"
 
 avatar: "/assets/img/people/bernardo-chede.jpg"
 
-email: "[bechede@id.uff.br](mailto:bechede@id.uff.br)"
-github: "[https://github.com/bechedeuff](https://github.com/bechedeuff)"
+email: "bechede@id.uff.br"
+github: "https://github.com/bechedeuff"
 orcid: "0000-0003-4155-2373"
-lattes: "[http://lattes.cnpq.br/7781536039271939](http://lattes.cnpq.br/7781536039271939)"
+lattes: "http://lattes.cnpq.br/7781536039271939"
 
 location: "Rio de Janeiro, RJ, Brazil"
 order: 6
