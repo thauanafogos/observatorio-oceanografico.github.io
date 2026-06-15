@@ -21,5 +21,16 @@ order: 30
 slug: gabriel-schimidel
 ---
 
-> This page is still under construction —
-> or the author is still gathering the courage to write about himself (herself).
+## Presentation
+
+Hello! My name is Gabriel Schimidel Ramos de Oliveira, I am 25 years old, and I am currently pursuing a degree in Water Resources and Environmental Engineering at the Federal Fluminense University (UFF) 🎓. Since the early semesters of my undergraduate studies, I have developed a strong interest in Data Science applied to environmental sciences, with a particular focus on climatology, hydrology, and numerical modeling. I am especially interested in understanding how statistical techniques and Artificial Intelligence can contribute to solving environmental challenges 🤖🌱.
+
+Currently, as an Undergraduate Research Fellow, I am conducting research focused on forecasting extreme wave events using machine learning 🌊💻. This project has provided me with a deeper understanding of how machine learning models can be applied within the environmental field.
+
+In my free time, surfing and the ocean are my greatest passions, whether I am practicing the sport or simply following it 🏄. I also enjoy spending time at home with my dog, Caramelo 🐾, and my family. Whenever possible, I like to use my free time to watch TV series and anime, play video games, and study topics that interest me 📚.
+
+You can find some of my projects on my GitHub 💻.
+
+Feel free to connect with me on LinkedIn 🤝.
+
+You can also follow my research and publications on ResearchGate 📝.
