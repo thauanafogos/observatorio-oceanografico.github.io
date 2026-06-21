@@ -33,6 +33,7 @@ I also took part in the Institutional Teaching Initiation Scholarship Program (P
 I am interested in the areas of Geography Teaching, Environmental Education, Population Geography, Regional Geography, and Teacher Education. I seek to understand how economic, social, historical, and cultural processes produce inequalities and transformations in geographic space, as well as the role of education in building more critical readings of reality.
 
 **Contact**
+
 I believe knowledge is built through exchange and encounters. I am always open to dialogue.
 Email: biancasilva@id.uff.br
 
