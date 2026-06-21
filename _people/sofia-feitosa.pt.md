@@ -32,4 +32,3 @@ Caso eu não esteja na universidade ou no O2, provavelmente você vai me encontr
 📫 Caso queira entrar em contato comigo meu e-mail está sempre disponível!
 
 ---
----
