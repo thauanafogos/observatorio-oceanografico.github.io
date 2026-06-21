@@ -6,8 +6,8 @@ permalink: /pessoas/bianca-silva/
 alt_lang: /people/bianca-silva/
 
 role: "Bolsista de Extensão - Cultura Oceânica"
-affiliation: "Observatório Oceanográfico"
-affiliation_url: "https://observatoriooceanografico.org"
+affiliation: "Curso de Graduação em Geografia"
+affiliation_url: "https://geografia.sites.uff.br/"
 
 avatar: "/assets/img/people/bianca-silva.png"
 
