@@ -9,7 +9,7 @@ role: "Extension Scholar - Ocean Literacy"
 affiliation: "Undergraduate Program in Environmental Science"
 affiliation_url: "https://cienciaambiental.sites.uff.br/"
 
-avatar: "/assets/img/people/thauana-fogos.jpg.jpg"
+avatar: "/assets/img/people/thauana-fogos.jpg"
 
 email: "thauana_fogos@id.uff.br"
 github: "https://github.com/thauanafogos"
@@ -21,7 +21,7 @@ order: 52
 slug: thauana-fogos
 ---
 
-## ## Hi! I'm Thauana. ✨🦋
+## Hi! I'm Thauana. ✨🦋
 
 I'm an undergraduate student in Environmental Science at Fluminense Federal University (UFF) and currently serve as an **Extension Scholarship Holder** in the **Oceanographic Observatory – Ocean Literacy in Action** project.
 
