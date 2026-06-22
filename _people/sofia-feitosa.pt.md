@@ -9,9 +9,9 @@ role: "Bolsista de Extensão - Cultura Oceânica"
 affiliation: "Observatório Oceanográfico"
 affiliation_url: "https://observatoriooceanografico.org"
 
-avatar: "/assets/img/equipe/IMG_Sofia.jpg"
+avatar: "/assets/img/equipe/sofia-lima.jpg"
 
-email: "lima_sofia@id.uff.br"
+email: "mailto:lima_sofia@id.uff.br"
 github: "https://github.com/limasofia-bra"
 lattes: "http://lattes.cnpq.br/8198767266247159"
 
@@ -29,6 +29,6 @@ Faço parte do Observatório Oceanográfico (O2) como bolsista da ação de exte
 Caso eu não esteja na universidade ou no O2, provavelmente você vai me encontrar explorando museus, parques, restaurantes e livrarias no Centro do Rio de Janeiro. Porém, o mais provável mesmo é que eu esteja em casa elaborando o meu TCC ou desenvolvendo meu lado artístico🎨. 
 
 
-📫 Caso queira entrar em contato comigo meu e-mail está sempre disponível!
+📫 Caso queira entrar em contato comigo, meu e-mail está sempre disponível!
 
 ---
