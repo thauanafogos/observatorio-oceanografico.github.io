@@ -9,9 +9,9 @@ role: "Extension Scholar - Ocean Literacy"
 affiliation: "Observatório Oceanográfico"
 affiliation_url: "https://observatoriooceanografico.org"
 
-avatar: "/assets/img/equipe/IMG_Sofia.jpg"
+avatar: "/assets/img/equipe/sofia-lima.jpg"
 
-email: "lima_sofia@id.uff.br"
+email: "mailto:lima_sofia@id.uff.br"
 github: "https://github.com/limasofia-bra"
 lattes: "http://lattes.cnpq.br/8198767266247159"
 
@@ -31,3 +31,5 @@ My experience as a scholarship student began last year through the UFF Monitorin
 When I'm not at the university or at O2, you'll probably find me exploring museums, parks, restaurants, and bookstores in downtown Rio de Janeiro. More often than not, though, I'm at home working on my undergraduate thesis or nurturing my artistic side 🎨.
 
 📫 Feel free to get in touch — my email is always open!
+
+---
