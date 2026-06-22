@@ -9,9 +9,9 @@ role: "Bolsista de Extensão - Cultura Oceânica"
 affiliation: "Observatório Oceanográfico"
 affiliation_url: "https://observatoriooceanografico.org"
 
-avatar: "/assets/img/equipe/IMG_Sofia.jpg"
+avatar: "/assets/img/equipe/sofia-lima.jpg"
 
-email: "lima_sofia@id.uff.br"
+email: "mailto:lima_sofia@id.uff.br"
 github: "https://github.com/limasofia-bra"
 lattes: "http://lattes.cnpq.br/8198767266247159"
 
